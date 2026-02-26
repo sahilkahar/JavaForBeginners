@@ -1,0 +1,7 @@
+# Exclude all Java compiled class files
+*.class
+
+# Exclude the 'out' directory (common in IntelliJ)
+out/
+.idea/
+.DS_Store
